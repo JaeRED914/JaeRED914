@@ -1,14 +1,14 @@
 ## Hi there 👋
 
-I'm JaeHong, Dongguk University student. \n 
-And major is Computer Science. \n
+I'm JaeHong, Dongguk University student. \
+And major is Computer Science. \
 Now I'm interseted in AI and studying that.
 
-<h3>## 📍WHOAMI</h3>
-- Student of Dongguk University, Seoul, Korea \n
+## 📍WHOAMI
+- Student of Dongguk University, Seoul, Korea \
 - Computer Science major
 
-<h3>## 💻TOOL </h3>
+## 💻TOOL 
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
