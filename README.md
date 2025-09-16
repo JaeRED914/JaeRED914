@@ -17,5 +17,5 @@ Now I'm interseted in AI and studying that.
 </div>
 
 ## 👌CONTACTME
-<img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"> https://velog.io/@jae_red914/posts
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"> https://velog.io/@jae_red914/posts \
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> devilgo04@gmail.com
