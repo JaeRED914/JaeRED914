@@ -1,10 +1,11 @@
 ## Hi there 👋
 
-I'm JaeHong, Dongguk University student. And major is Computer Science. 
+I'm JaeHong, Dongguk University student. \n 
+And major is Computer Science. \n
 Now I'm interseted in AI and studying that.
 
 <h3>## 📍WHOAMI</h3>
-- Student of Dongguk University, Seoul, Korea
+- Student of Dongguk University, Seoul, Korea \n
 - Computer Science major
 
 <h3>## 💻TOOL </h3>
