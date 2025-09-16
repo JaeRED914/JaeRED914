@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋Hi there 
 
 I'm JaeHong, Dongguk University student. \
 And major is Computer Science. \
