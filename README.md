@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**JaeRED914/JaeRED914** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm JaeHong, Dongguk University student. And major is Computer Science. 
+Now I'm interseted in AI and studying that.
 
-Here are some ideas to get you started:
+<h3>## 📍WHOAMI</h3>
+- Student of Dongguk University, Seoul, Korea
+- Computer Science major
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>## 💻TOOL </h3>
+<div>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=NumPy&logoColor=white">
+</div>
