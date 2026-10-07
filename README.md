@@ -1,12 +1,15 @@
-## 👋Hi there 
+## 👋 Hi there
 
-I'm JaeHong, Dongguk University student. \
-And major is Computer Science. \
-Now I'm interseted in AI and studying that.
+I'm JaeHong, a Computer Science student at Dongguk University in Seoul, South Korea. \
+I'm interested in artificial intelligence and enjoy exploring how it works through code. \
+This is where I share my projects and what I learn along the way.
 
-## 📍WHOAMI
-- Student of Dongguk University, Seoul, Korea 
-- Computer Science major
+## 📍 WHOAMI
+- 🎓 Computer Science student at Dongguk University
+- 📍 Based in Seoul, South Korea
+- 🤖 Currently learning about artificial intelligence and machine learning
+- 🐍 Exploring AI with Python and PyTorch
+- ✍️ Sharing my learning journey on [my blog](https://jaered914.github.io/blog/)
 
 ## 💻TOOL 
 <div>
@@ -22,5 +25,8 @@ Now I'm interseted in AI and studying that.
   
 </div>
 
-## 👌CONTACTME
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> devilgo04@gmail.com
+## 👌 CONTACT ME
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:devilgo04@gmail.com) devilgo04@gmail.com
+
+[![Blog](https://img.shields.io/badge/Blog-181717?style=for-the-badge&logo=github&logoColor=white)](https://jaered914.github.io/blog/) [jaered914.github.io/blog](https://jaered914.github.io/blog/)
