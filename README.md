@@ -38,7 +38,7 @@ This is where I share my projects and what I learn along the way.
 
 ## 👨‍💻 Projects
 
-### **Wivue 위뷰** : AI 기반 와이파이 장애 진단 및 대응 지원 시스템_2025여름
+### [**Wivue 위뷰** : AI 기반 와이파이 장애 진단 및 대응 지원 시스템<sub>2025여름</sub>](https://github.com/gmldbs3104/Union-Summer-Project-2025)
 - 동국대학교 동아리 farm system Union 단기 프로젝트
 
 
