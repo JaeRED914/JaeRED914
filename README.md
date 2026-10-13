@@ -3,6 +3,12 @@
 \
 [![Hits](https://hits.sh/github.com/JaeRED914.svg?color=9b86f6)](https://hits.sh/github.com/JaeRED914/)
 
+<h3>🟡 Pacman eats my daily GitHub contributions</h3>
+
+<img
+  src="https://raw.githubusercontent.com/JaeRED914/README.md/output/pacman-contribution-graph-dark.svg?v=1"
+/>
+
 # 👋 안녕하세요
 
 서울 동국대학교에서 컴퓨터공학을 공부하고 있는 JaeHong입니다. \
