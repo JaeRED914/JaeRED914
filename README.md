@@ -9,6 +9,10 @@
   src="https://raw.githubusercontent.com/JaeRED914/JaeRED914/output/pacman-contribution-graph-dark.svg?v=1"
 />
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/JaeRED914"/>
+</a>
+
 # 👋 안녕하세요
 
 서울 동국대학교에서 컴퓨터공학을 공부하고 있는 JaeHong입니다. \
