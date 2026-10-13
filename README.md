@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=%20&fontSize=90)
-
 [🌐 Read in English](https://github.com/JaeRED914/JaeRED914/blob/main/README.en.md)
 
 # 👋 안녕하세요
@@ -55,6 +54,12 @@
 AI 기반 와이파이 장애 진단 및 대응 지원 시스템입니다.
 
 - 동국대학교 동아리 Farm System Union 단기 프로젝트
+
+# 🔢 Github
+[![JaeHong's GitHub stats](https://github-stats-extended.vercel.app/api?username=JaeRED914)](https://github.com/stats-organization/github-stats-extended)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaeRED914)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 # 👌 연락처
 
