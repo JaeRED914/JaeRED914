@@ -45,6 +45,16 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pjh040914)](https://solved.ac/pjh040914)
 
+# 🔠 어학
+![Static Badge](https://img.shields.io/badge/TEPS-311%2F600-blue)
+
+
+
+# 🧑‍🏫 멘토
+
+## **동국대학교 중앙동아리 CAPS 딥러닝 스터디**
+- 2026 봄학기, 2026 가을학기
+
 
 # 👨‍💻 프로젝트
 
@@ -63,8 +73,8 @@ AI 기반 와이파이 장애 진단 및 대응 지원 시스템입니다.
 - 동국대학교 동아리 Farm System Union 단기 프로젝트
 
 # 🔢 Github
-[![JaeHong's GitHub stats](https://github-stats-extended.vercel.app/api?username=JaeRED914)](https://github.com/stats-organization/github-stats-extended)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaeRED914)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=JaeRED914&hide_title=true&show_icons=true&include_all_commits=true&theme=aura)](https://github-stats-extended.vercel.app/api?username=JaeRED914&hide_title=true&show_icons=true&include_all_commits=true&theme=aura)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=JaeRED914&layout=compact&langs_count=8&theme=midnight-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=JaeRED914&layout=compact&langs_count=8&theme=midnight-purple)
 
 
 
