@@ -3,7 +3,8 @@
 \
 [![Hits](https://hits.sh/github.com/JaeRED914.svg?color=9b86f6)](https://hits.sh/github.com/JaeRED914/)
 
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=JaeRED914&hide_title=true&show_icons=true&include_all_commits=true&theme=aura)](https://github-stats-extended.vercel.app/api?username=JaeRED914&hide_title=true&show_icons=true&include_all_commits=true&theme=aura)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=JaeRED914&layout=compact&langs_count=8&theme=midnight-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=JaeRED914&layout=compact&langs_count=8&theme=midnight-purple)
 # 👋 안녕하세요
 
 서울 동국대학교에서 컴퓨터공학을 공부하고 있는 JaeHong입니다. \
@@ -83,8 +84,7 @@ AI 기반 와이파이 장애 진단 및 대응 지원 시스템입니다.
 - 동국대학교 동아리 Farm System Union 단기 프로젝트
 
 # 🔢 Github
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=JaeRED914&hide_title=true&show_icons=true&include_all_commits=true&theme=aura)](https://github-stats-extended.vercel.app/api?username=JaeRED914&hide_title=true&show_icons=true&include_all_commits=true&theme=aura)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=JaeRED914&layout=compact&langs_count=8&theme=midnight-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=JaeRED914&layout=compact&langs_count=8&theme=midnight-purple)
+
 
 
 
