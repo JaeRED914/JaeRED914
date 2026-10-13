@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=%20&fontSize=90)
 [🇰🇷 한글로 읽기](https://github.com/JaeRED914)
 
 # 👋 Hi there
@@ -54,8 +55,15 @@ An AI-based Wi-Fi fault diagnosis and response support system.
 
 - A short-term Union project in Dongguk University's Farm System club
 
+# 🔢 GitHub
+
+[![JaeHong's GitHub stats](https://github-stats-extended.vercel.app/api?username=JaeRED914)](https://github.com/stats-organization/github-stats-extended)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaeRED914)](https://github.com/anuraghazra/github-readme-stats)
+
 # 👌 CONTACT ME
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:devilgo04@gmail.com) devilgo04@gmail.com
 
 [![Blog](https://img.shields.io/badge/Blog-181717?style=for-the-badge&logo=github&logoColor=white)](https://jaered914.github.io/blog/) [jaered914.github.io/blog](https://jaered914.github.io/blog/)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=%20&fontSize=90)
