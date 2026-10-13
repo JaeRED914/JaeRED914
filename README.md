@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=%20&fontSize=90)\
-[🌐 Read in English](https://github.com/JaeRED914/JaeRED914/blob/main/README.en.md)
-[![Hits](https://hits.sh/github.com/JaeRED914.svg?color=9b86f6)](https://hits.sh/github.com/JaeRED914/)\
+[🌐 Read in English](https://github.com/JaeRED914/JaeRED914/blob/main/README.en.md)\
+\
+[![Hits](https://hits.sh/github.com/JaeRED914.svg?color=9b86f6)](https://hits.sh/github.com/JaeRED914/)
 
 # 👋 안녕하세요
 
