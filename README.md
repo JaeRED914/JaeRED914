@@ -26,8 +26,8 @@
 <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=JaeRED914&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/JaeRED914"
-  width="1000"
-  height="500"
+  width="700"
+  height="300"
 />
 </a>
 
