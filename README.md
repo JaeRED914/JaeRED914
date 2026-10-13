@@ -18,15 +18,19 @@
 - 🐍 Python과 PyTorch로 AI 탐구
 - ✍️ [블로그](https://jaered914.github.io/blog/)에 공부한 내용과 경험 기록
 
-# ♣️ CARD
+
+# 🔢 Github
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=JaeRED914&hide_title=true&show_icons=true&include_all_commits=true&theme=aura)](https://github-stats-extended.vercel.app/api?username=JaeRED914&hide_title=true&show_icons=true&include_all_commits=true&theme=aura)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=JaeRED914&layout=compact&langs_count=8&theme=midnight-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=JaeRED914&layout=compact&langs_count=8&theme=midnight-purple)
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pjh040914)](https://solved.ac/pjh040914)
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/JaeRED914"/>
 </a>
+
+# ♣️ CARD
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pjh040914)](https://solved.ac/pjh040914)
 
 # 💻 기술 스택
 
@@ -80,7 +84,7 @@ AI 기반 와이파이 장애 진단 및 대응 지원 시스템입니다.
 
 - 동국대학교 동아리 Farm System Union 단기 프로젝트
 
-# 🔢 Github
+
 
 
 
