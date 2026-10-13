@@ -60,6 +60,9 @@ AI 기반 와이파이 장애 진단 및 대응 지원 시스템입니다.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaeRED914)](https://github.com/anuraghazra/github-readme-stats)
 
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pjh040914)](https://solved.ac/pjh040914)
+
 
 # 👌 연락처
 
@@ -68,6 +71,7 @@ AI 기반 와이파이 장애 진단 및 대응 지원 시스템입니다.
 [![Blog](https://img.shields.io/badge/Blog-181717?style=for-the-badge&logo=github&logoColor=white)](https://jaered914.github.io/blog/) [jaered914.github.io/blog](https://jaered914.github.io/blog/)
 
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=%20&fontSize=90)
-
 [![Hits](https://hits.sh/github.com/JaeRED914.svg?color=9b86f6)](https://hits.sh/github.com/JaeRED914/)
+
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=%20&fontSize=90)
