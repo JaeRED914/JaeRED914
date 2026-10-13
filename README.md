@@ -3,22 +3,12 @@
 \
 [![Hits](https://hits.sh/github.com/JaeRED914.svg?color=9b86f6)](https://hits.sh/github.com/JaeRED914/)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=JaeRED914&hide_title=true&show_icons=true&include_all_commits=true&theme=aura)](https://github-stats-extended.vercel.app/api?username=JaeRED914&hide_title=true&show_icons=true&include_all_commits=true&theme=aura)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=JaeRED914&layout=compact&langs_count=8&theme=midnight-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=JaeRED914&layout=compact&langs_count=8&theme=midnight-purple)
 # 👋 안녕하세요
 
 서울 동국대학교에서 컴퓨터공학을 공부하고 있는 JaeHong입니다. \
 인공지능에 관심이 있으며, 코드를 직접 작성하며 원리를 탐구하고 있습니다. \
 이곳에서 진행한 프로젝트와 공부하며 배운 내용을 공유합니다.
 
-
-<img
-  src="https://raw.githubusercontent.com/JaeRED914/JaeRED914/output/pacman-contribution-graph-dark.svg?v=1"
-/>
-
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/JaeRED914"/>
-</a>
 
 # 📍 자기소개
 
@@ -27,6 +17,20 @@
 - 🤖 인공지능과 머신러닝 공부 중
 - 🐍 Python과 PyTorch로 AI 탐구
 - ✍️ [블로그](https://jaered914.github.io/blog/)에 공부한 내용과 경험 기록
+
+# ♣️ CARD
+
+<img
+  src="https://raw.githubusercontent.com/JaeRED914/JaeRED914/output/pacman-contribution-graph-dark.svg?v=1"
+/>
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/JaeRED914"/>
+</a>
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=JaeRED914&hide_title=true&show_icons=true&include_all_commits=true&theme=aura)](https://github-stats-extended.vercel.app/api?username=JaeRED914&hide_title=true&show_icons=true&include_all_commits=true&theme=aura)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=JaeRED914&layout=compact&langs_count=8&theme=midnight-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=JaeRED914&layout=compact&langs_count=8&theme=midnight-purple)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pjh040914)](https://solved.ac/pjh040914)
 
 # 💻 기술 스택
 
@@ -52,9 +56,6 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
 </div>
 
-# ♣️ CARD
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pjh040914)](https://solved.ac/pjh040914)
 
 # 🔠 어학
 ![Static Badge](https://img.shields.io/badge/TEPS-311%2F600-blue)
