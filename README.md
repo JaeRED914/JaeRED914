@@ -41,6 +41,8 @@ This is where I share my projects and what I learn along the way.
 ### [**Wivue 위뷰** : AI 기반 와이파이 장애 진단 및 대응 지원 시스템](https://github.com/gmldbs3104/Union-Summer-Project-2025)<sub>2025여름</sub>
 - 동국대학교 동아리 farm system Union 단기 프로젝트
 
+### [**MotorDiagnosis — Bind Edge AI** : 도서·섬 지역의 모터·펌프 등 회전설비에서 진동·음향 데이터를 수집하고, 설비 상태를 모니터링하며 이상 후보를 확인하는 PoC/MVP 프로젝트](https://github.com/ckdudwns/MotorDiagnosis)<sub>2026여름~진행중</sub>
+
 
 ## 👌 CONTACT ME
 
