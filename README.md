@@ -23,8 +23,12 @@
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=JaeRED914&hide_title=true&show_icons=true&include_all_commits=true&theme=aura)](https://github-stats-extended.vercel.app/api?username=JaeRED914&hide_title=true&show_icons=true&include_all_commits=true&theme=aura)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=JaeRED914&layout=compact&langs_count=8&theme=midnight-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=JaeRED914&layout=compact&langs_count=8&theme=midnight-purple)
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/JaeRED914"/>
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=JaeRED914&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/JaeRED914"
+  width="600"
+  height="300"
+/>
 </a>
 
 # ♣️ CARD
