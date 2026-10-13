@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=%20&fontSize=90)
 
 [🌐 Read in English](https://github.com/JaeRED914/JaeRED914/blob/main/README.en.md)
 
@@ -63,4 +63,4 @@ AI 기반 와이파이 장애 진단 및 대응 지원 시스템입니다.
 [![Blog](https://img.shields.io/badge/Blog-181717?style=for-the-badge&logo=github&logoColor=white)](https://jaered914.github.io/blog/) [jaered914.github.io/blog](https://jaered914.github.io/blog/)
 
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=footer&text=capsule%20render&fontSize=90)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=%20&fontSize=90)
