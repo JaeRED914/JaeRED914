@@ -20,9 +20,6 @@
 
 # ♣️ CARD
 
-<img
-  src="https://raw.githubusercontent.com/JaeRED914/JaeRED914/output/pacman-contribution-graph-dark.svg?v=1"
-/>
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=JaeRED914&hide_title=true&show_icons=true&include_all_commits=true&theme=aura)](https://github-stats-extended.vercel.app/api?username=JaeRED914&hide_title=true&show_icons=true&include_all_commits=true&theme=aura)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=JaeRED914&layout=compact&langs_count=8&theme=midnight-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=JaeRED914&layout=compact&langs_count=8&theme=midnight-purple)
 [![Solved.ac
