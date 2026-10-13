@@ -1,5 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=%20&fontSize=90)
-[🇰🇷 한글로 읽기](https://github.com/JaeRED914)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=%20&fontSize=90)\
+[🇰🇷 한글로 읽기](https://github.com/JaeRED914)\
+\
+[![Hits](https://hits.sh/github.com/JaeRED914.svg?color=9b86f6)](https://hits.sh/github.com/JaeRED914/)
 
 # 👋 Hi there
 
@@ -14,6 +16,22 @@ This is where I share my projects and what I learn along the way.
 - 🤖 Currently learning about artificial intelligence and machine learning
 - 🐍 Exploring AI with Python and PyTorch
 - ✍️ Sharing my learning journey on [my blog](https://jaered914.github.io/blog/)
+
+# 🔢 GitHub
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=JaeRED914&hide_title=true&show_icons=true&include_all_commits=true&theme=aura)](https://github-stats-extended.vercel.app/api?username=JaeRED914&hide_title=true&show_icons=true&include_all_commits=true&theme=aura)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=JaeRED914&layout=compact&langs_count=8&theme=midnight-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=JaeRED914&layout=compact&langs_count=8&theme=midnight-purple)
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=JaeRED914&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/JaeRED914"
+  width="600"
+  height="300"
+/>
+</a>
+
+# ♣️ CARD
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pjh040914)](https://solved.ac/pjh040914)
 
 # 💻 Skills
 
@@ -39,6 +57,16 @@ This is where I share my projects and what I learn along the way.
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
 </div>
 
+# 🔠 Language Proficiency
+
+![TEPS score: 311/600](https://img.shields.io/badge/TEPS-311%2F600-blue)
+
+# 🧑‍🏫 Mentoring
+
+## Deep Learning Study Group — CAPS, Dongguk University
+
+- Mentor for the Spring 2026 and Fall 2026 semesters
+
 # 👨‍💻 Projects
 
 ## [MotorDiagnosis — Bind Edge AI](https://github.com/ckdudwns/MotorDiagnosis)
@@ -54,11 +82,6 @@ A PoC/MVP project that collects vibration and acoustic data from rotating equipm
 An AI-based Wi-Fi fault diagnosis and response support system.
 
 - A short-term Union project in Dongguk University's Farm System club
-
-# 🔢 GitHub
-
-[![JaeHong's GitHub stats](https://github-stats-extended.vercel.app/api?username=JaeRED914)](https://github.com/stats-organization/github-stats-extended)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaeRED914)](https://github.com/anuraghazra/github-readme-stats)
 
 # 👌 CONTACT ME
 
