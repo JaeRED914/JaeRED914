@@ -4,6 +4,7 @@ I'm JaeHong, a Computer Science student at Dongguk University in Seoul, South Ko
 I'm interested in artificial intelligence and enjoy exploring how it works through code. \
 This is where I share my projects and what I learn along the way.
 
+
 # 📍 WHOAMI
 - 🎓 Computer Science student at Dongguk University
 - 📍 Based in Seoul, South Korea
@@ -11,15 +12,18 @@ This is where I share my projects and what I learn along the way.
 - 🐍 Exploring AI with Python and PyTorch
 - ✍️ Sharing my learning journey on [my blog](https://jaered914.github.io/blog/)
 
+
 # 💻 skills
 
-## 📄 language
 
+## 📄 language
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
 </div>
+
+
 
 ## 🗃️ library
 <div>
@@ -30,15 +34,20 @@ This is where I share my projects and what I learn along the way.
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white">
 </div>
 
+
+
 ## 🧑‍💻 CI/CD
 <div>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">  
 </div>
 
+
+
 # 👨‍💻 Projects
 
-## [**MotorDiagnosis — Bind Edge AI**] : 도서·섬 지역의 모터·펌프 등 회전설비에서 진동·음향 데이터를 수집하고, 설비 상태를 모니터링하며 이상 후보를 확인하는 PoC/MVP 프로젝트(https://github.com/ckdudwns/MotorDiagnosis)<sub>2026여름~진행중</sub>
+## [**MotorDiagnosis — Bind Edge AI**](https://github.com/ckdudwns/MotorDiagnosis) : 도서·섬 지역의 모터·펌프 등 회전설비에서 진동·음향 데이터를 수집하고, 설비 상태를 모니터링하며 이상 후보를 확인하는 PoC/MVP 프로젝트<sub>2026여름~진행중</sub>
+
 
 
 ## [**Wivue 위뷰** : AI 기반 와이파이 장애 진단 및 대응 지원 시스템](https://github.com/gmldbs3104/Union-Summer-Project-2025)<sub>2025여름</sub>
