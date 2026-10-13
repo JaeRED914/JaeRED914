@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=%20&fontSize=90)
+[![Hits](https://hits.sh/github.com/JaeRED914.svg?color=9b86f6)](https://hits.sh/github.com/JaeRED914/)
 [🌐 Read in English](https://github.com/JaeRED914/JaeRED914/blob/main/README.en.md)
 
 # 👋 안녕하세요
@@ -39,6 +40,10 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
 </div>
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pjh040914)](https://solved.ac/pjh040914)
+
+
 # 👨‍💻 프로젝트
 
 ## [MotorDiagnosis — Bind Edge AI](https://github.com/ckdudwns/MotorDiagnosis)
@@ -60,8 +65,6 @@ AI 기반 와이파이 장애 진단 및 대응 지원 시스템입니다.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaeRED914)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pjh040914)](https://solved.ac/pjh040914)
 
 
 # 👌 연락처
@@ -69,9 +72,6 @@ AI 기반 와이파이 장애 진단 및 대응 지원 시스템입니다.
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:devilgo04@gmail.com) devilgo04@gmail.com
 
 [![Blog](https://img.shields.io/badge/Blog-181717?style=for-the-badge&logo=github&logoColor=white)](https://jaered914.github.io/blog/) [jaered914.github.io/blog](https://jaered914.github.io/blog/)
-
-
-[![Hits](https://hits.sh/github.com/JaeRED914.svg?color=9b86f6)](https://hits.sh/github.com/JaeRED914/)
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=%20&fontSize=90)
