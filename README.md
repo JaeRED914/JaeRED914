@@ -6,7 +6,7 @@
 <h3>🟡 Pacman eats my daily GitHub contributions</h3>
 
 <img
-  src="https://raw.githubusercontent.com/JaeRED914/README.md/output/pacman-contribution-graph-dark.svg?v=1"
+  src="https://raw.githubusercontent.com/JaeRED914/JaeRED914/output/pacman-contribution-graph-dark.svg?v=1"
 />
 
 # 👋 안녕하세요
