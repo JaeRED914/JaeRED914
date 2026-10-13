@@ -25,7 +25,7 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=JaeRED914&layout=compact&langs_count=8&theme=midnight-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=JaeRED914&layout=compact&langs_count=8&theme=midnight-purple)
 <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=JaeRED914&utm_content=farm">
 <img
-  src="https://render.gitanimals.org/farms/JaeRED914"
+  src="https://render.gitanimals.org/farms/JaeRED914?v=2"
   width="700"
   height="300"
 />
