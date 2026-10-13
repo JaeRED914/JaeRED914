@@ -69,3 +69,5 @@ AI 기반 와이파이 장애 진단 및 대응 지원 시스템입니다.
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=%20&fontSize=90)
+
+![HitCount](http://hits.dwyl.com/JaeRED914)
