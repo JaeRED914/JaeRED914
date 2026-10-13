@@ -3,7 +3,13 @@
 \
 [![Hits](https://hits.sh/github.com/JaeRED914.svg?color=9b86f6)](https://hits.sh/github.com/JaeRED914/)
 
-<h3>🟡 Pacman eats my daily GitHub contributions</h3>
+
+# 👋 안녕하세요
+
+서울 동국대학교에서 컴퓨터공학을 공부하고 있는 JaeHong입니다. \
+인공지능에 관심이 있으며, 코드를 직접 작성하며 원리를 탐구하고 있습니다. \
+이곳에서 진행한 프로젝트와 공부하며 배운 내용을 공유합니다.
+
 
 <img
   src="https://raw.githubusercontent.com/JaeRED914/JaeRED914/output/pacman-contribution-graph-dark.svg?v=1"
@@ -12,12 +18,6 @@
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/JaeRED914"/>
 </a>
-
-# 👋 안녕하세요
-
-서울 동국대학교에서 컴퓨터공학을 공부하고 있는 JaeHong입니다. \
-인공지능에 관심이 있으며, 코드를 직접 작성하며 원리를 탐구하고 있습니다. \
-이곳에서 진행한 프로젝트와 공부하며 배운 내용을 공유합니다.
 
 # 📍 자기소개
 
